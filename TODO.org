@@ -1,0 +1,13 @@
+* Features
+** Priority
+*** TODO Ability to save/create preset intervals
+*** TODO Allow the user to choose their own transitional sounds
+*** TODO Optional notification with ability to pause/see time left until next interval
+** Non-priority
+*** TODO Custom/Different background options
+*** TODO Custom/Different timer color
+*** TODO Donate button
+*** TODO Goal at the top of the timer screen
+* Bugs
+** Priority
+** Non-priority
