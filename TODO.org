@@ -4,6 +4,7 @@
 *** TODO 0.3 - Add an extended break interval after x intervals (where x is user-selected)
 *** TODO 0.3.1 - Allow the user to choose their own transitional sounds
 *** TODO 0.3.2 - Optional notification with ability to pause/see time left until next interval
+*** TODO 0.3.2 - Allow the user to choose the number of intervals to run, as opposed to running infinite intervals
 ** Non-priority
 *** TODO 0.4 - Custom/Different background options
 *** TODO 0.4 - Custom/Different timer color
